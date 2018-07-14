@@ -1,0 +1,6 @@
+{
+  "githubUsers":[
+    {"teamwaveRef":"someuser1", "githubLogin":"someuser1Login"},
+    {"teamwaveRef":"someuser2", "githubLogin":"someuser2Login"}
+  ]
+}

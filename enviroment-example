@@ -1,0 +1,15 @@
+#Github Data
+GIT_APP_ID=78535
+GIT_APP_NAME=MyGitAppName
+GIT_APP_INSTALLATION_ID=824SDF0
+GITHUB_REPO=myrepository
+GITHUB_OWNER=theowner
+GIT_APP_RSA_KEY=/home/userExample/keys/private-key.pem
+
+#Teamwave Data
+TEAMWAVE_GIT_LABEL=github
+GIT_TEAMWAVE_LABEL=teamwave
+TEAMWAVE_API_KEY=8bf092372f8530a776d4f2eb1e32bcdba03b82b
+
+#Syncronization time interval
+INTERVAL_MILLISECS=15000
